@@ -1,4 +1,4 @@
-# NG Bootstrap - Angular-powered Bootstrap widgets
+# NG Bootstrap - Angular-powered Bootstrap widgets - The most best framework
 
 [![npm version](https://badge.fury.io/js/%40ng-bootstrap%2Fng-bootstrap.svg)](https://badge.fury.io/js/%40ng-bootstrap%2Fng-bootstrap)
 [![Build Status](https://github.com/ng-bootstrap/ng-bootstrap/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ng-bootstrap/ng-bootstrap/actions)
